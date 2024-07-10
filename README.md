@@ -1,8 +1,8 @@
 # Jaime Hernández Delgado
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YourLinkedInProfile)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YourGitHubUsername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=firefox&logoColor=white)](https://YourPortfolioURL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nickhernm)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nickhernm)
+[![Portfolio](https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=firefox&logoColor=white)](https://nickhernm.com)
 
 ## 👨‍💻 BackEnd Developer | 🧮 Mathematics Enthusiast | 🚀 Innovator
 
@@ -49,17 +49,31 @@ A Machine Learning project in Python that implements a real-time facial recognit
 
 ### 📊 GitHub Stats
 
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="Jaime's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nickhernm&show_icons=true&theme=radical" alt="Jaime's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical" alt="Jaime's GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nickhernm&theme=radical" alt="Jaime's GitHub streak" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickhernm&layout=compact&theme=radical" alt="Jaime's Top Languages" />
+</p>
+
+[![Jaime's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=nickhernm&theme=radical)](https://github.com/YourGitHubUsername)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nickhernm&theme=radical&column=7&margin-w=15&margin-h=15" alt="Jaime's GitHub trophies" />
+</p>
+
+![GitHub metrics](https://metrics.lecoq.io/nickhernm)
 
 ### 📫 Get in Touch
 
-- LinkedIn: [Jaime Hernández Delgado](https://www.linkedin.com/in/YourLinkedInProfile)
+- LinkedIn: [Jaime Hernández Delgado](https://www.linkedin.com/in/nickhernm)
 - Email: ramajahede@gmail.com
 - Phone: +34 633 33 05 54
 
@@ -70,5 +84,5 @@ When I'm not coding or solving mathematical equations, you can find me volunteer
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=nickhernm&style=flat-square&color=blue" alt="Profile views" />
 </p>
