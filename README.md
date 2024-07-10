@@ -127,5 +127,5 @@ When I'm not coding or solving mathematical equations, you can find me volunteer
 <p align="center">
   <img src="https://img.shields.io/github/followers/nickhernm?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=blue" alt="GitHub followers" />
   <img src="https://img.shields.io/github/stars/nickhernm?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=yellow" alt="GitHub stars" />
-  <img src="https://img.shields.io/badge/nickhernm%20Views-1234-blueviolet?style=for-the-badge&logo=eye&logoColor=white&labelColor=black" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=nickhernm&style=for-the-badge&logo=eye&logoColor=white&labelColor=black&color=blueviolet" alt="Profile views" />
 </p>
