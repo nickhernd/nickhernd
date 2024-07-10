@@ -108,18 +108,6 @@ A Machine Learning project in Python that implements a real-time facial recognit
 </p>
 -->
 
-### 🎮 Let's Play a Game!
-<details>
-<summary>Tic Tac Toe</summary>
-
-[Click here to play!](https://github.com/nickhernm/tic-tac-toe)
-
-| Wins | Losses | Draws | Players |
-|:----:|:------:|:-----:|:-------:|
-|  42  |   21   |  7    |   153   |
-
-</details>
-
 
 ### 📫 Get in Touch
 
@@ -137,5 +125,7 @@ When I'm not coding or solving mathematical equations, you can find me volunteer
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nickhernm&style=for-the-badge&color=blue" alt="Profile views" width="200" />
+  <img src="https://img.shields.io/github/followers/nickhernm?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/nickhernm?label=Stars&style=social" alt="GitHub stars" />
+  <img src="https://img.shields.io/github/watchers/nickhernm?label=Views&style=social" alt="GitHub watchers" />
 </p>
