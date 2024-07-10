@@ -86,47 +86,11 @@ A Machine Learning project in Python that implements a real-time facial recognit
   <img src="https://github-profile-trophy.vercel.app/?username=nickhernm&theme=radical&column=7&margin-w=15&margin-h=15" alt="Jaime's GitHub trophies" />
 </p>
 
+<!-- BLOG-POST-LIST:START
 ### 📘 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-<table>
-  <tr>
-    <td width="300px">
-      <a href="https://nickhernm.com/blogPost/MCPADA">
-        <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--5nRp0VJu--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j8wo9f1mou6g5469671h.jpg" alt="Minimum Cost Path" width="300px"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://dev.to/nickhernm/mastering-async-await-in-javascript-a-comprehensive-guide-2mpp">Mastering Async/Await in JavaScript: A Comprehensive Guide</a>
-      <br/>
-      <sub>Learn how to write cleaner, more efficient asynchronous code in JavaScript using async/await.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="300px">
-      <a href="https://nickhernm.com/blogPost/BigONotation">
-        <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--xV8hD3lY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7fcq51iio2rdcwvv73am.jpg" alt="Blog Post 2" width="300px"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://dev.to/nickhernm/demystifying-big-o-notation-a-beginners-guide-to-algorithmic-efficiency-4hn7">Demystifying Big O Notation: A Beginner's Guide to Algorithmic Efficiency</a>
-      <br/>
-      <sub>Dive into the world of algorithm analysis and understand how to evaluate code efficiency.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="300px">
-      <a href="https://dev.to/nickhernm/building-scalable-microservices-with-docker-and-kubernetes-a-practical-guide-1nkf">
-        <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--nbiH0TVv--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7x3sj36dmgv4palzzj2q.jpg" alt="Blog Post 3" width="300px"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://dev.to/nickhernm/building-scalable-microservices-with-docker-and-kubernetes-a-practical-guide-1nkf">Building Scalable Microservices with Docker and Kubernetes: A Practical Guide</a>
-      <br/>
-      <sub>Explore the world of containerization and orchestration to build robust, scalable applications.</sub>
-    </td>
-  </tr>
-</table>
+
 <!-- BLOG-POST-LIST:END -->
 
 
@@ -135,12 +99,14 @@ A Machine Learning project in Python that implements a real-time facial recognit
 - [Project Name](Link to project) - Brief description of your contribution
 -->
 
+<!--
 ### 🌟 Featured Repositories
 <p align="center">
   <a href="https://github.com/nickhernm/repo-name">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nickhernm&repo=repo-name&theme=radical" alt="Featured Repo" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nickhernm&repo=repo-name&theme=radical" alt="" />
   </a>
 </p>
+-->
 
 ### 📫 Get in Touch
 
