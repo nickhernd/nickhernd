@@ -92,8 +92,8 @@ A Machine Learning project in Python that implements a real-time facial recognit
 <table>
   <tr>
     <td width="300px">
-      <a href="https://dev.to/nickhernm/mastering-async-await-in-javascript-a-comprehensive-guide-2mpp">
-        <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--5nRp0VJu--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j8wo9f1mou6g5469671h.jpg" alt="Blog Post 1" width="300px"/>
+      <a href="https://nickhernm.com/blogPost/MCPADA">
+        <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--5nRp0VJu--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j8wo9f1mou6g5469671h.jpg" alt="Minimum Cost Path" width="300px"/>
       </a>
     </td>
     <td>
@@ -104,7 +104,7 @@ A Machine Learning project in Python that implements a real-time facial recognit
   </tr>
   <tr>
     <td width="300px">
-      <a href="https://dev.to/nickhernm/demystifying-big-o-notation-a-beginners-guide-to-algorithmic-efficiency-4hn7">
+      <a href="https://nickhernm.com/blogPost/BigONotation">
         <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--xV8hD3lY--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7fcq51iio2rdcwvv73am.jpg" alt="Blog Post 2" width="300px"/>
       </a>
     </td>
