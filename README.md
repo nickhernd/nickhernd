@@ -1,9 +1,9 @@
 # Jaime Hernández Delgado
 > Passionate BackEnd Developer | Mathematics Enthusiast | Innovator in Training
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nickhernm)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nickhernm)
-[![Portfolio](https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=firefox&logoColor=white)](https://nickhernm.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nickhernd)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nickhernd)
+[![Portfolio](https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=firefox&logoColor=white)](https://nickhernd.com)
 
 ## 👨‍💻 BackEnd Developer | 🧮 Mathematics Enthusiast | 🚀 Innovator
 
@@ -67,23 +67,23 @@ A Machine Learning project in Python that implements a real-time facial recognit
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nickhernm&show_icons=true&theme=radical" alt="Jaime's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nickhernd&show_icons=true&theme=radical" alt="Jaime's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nickhernm&theme=radical" alt="Jaime's GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nickhernd&theme=radical" alt="Jaime's GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickhernm&layout=compact&theme=radical" alt="Jaime's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickhernd&layout=compact&theme=radical" alt="Jaime's Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=nickhernm&theme=radical" alt="Jaime's GitHub activity graph" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=nickhernd&theme=radical" alt="Jaime's GitHub activity graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nickhernm&theme=radical&column=7&margin-w=15&margin-h=15" alt="Jaime's GitHub trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nickhernd&theme=radical&column=7&margin-w=15&margin-h=15" alt="Jaime's GitHub trophies" />
 </p>
 
 <!-- BLOG-POST-LIST:START
@@ -111,7 +111,7 @@ A Machine Learning project in Python that implements a real-time facial recognit
 
 ### 📫 Get in Touch
 
-- LinkedIn: [Jaime Hernández Delgado](https://www.linkedin.com/in/nickhernm)
+- LinkedIn: [Jaime Hernández Delgado](https://www.linkedin.com/in/nickhernd)
 - Email: ramajahede@gmail.com
 - Phone: +34 633 33 05 54
 
